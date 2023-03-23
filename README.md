@@ -41,7 +41,7 @@ Nice to meet you, I'm Joshua Jabonete
 - 🔞 How old am I: 22 years of age
 - 📫 How to reach me: https://solo.to/joshuajabonete
 - ⚡ Fun fact: I'm Funny and Friendly
-- 👀 See my [Personal Portfolio](https://kenjiotazaa.github.io/KenjiPersonalWebsite/) to get more info
+- 👀 See my [Personal Portfolio](https://joshuajaboneteportfolio.vercel.app/) to get more info
 - 👀 See my [Personal Portfolio](https://kenjiotazaa.github.io/KenjiPersonalWebsitev2/) to get more info
 
 
