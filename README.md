@@ -42,7 +42,7 @@ Nice to meet you, I'm Joshua Jabonete
 - 📫 How to reach me: https://solo.to/joshuajabonete
 - ⚡ Fun fact: I'm Funny and Friendly
 - 👀 See my [Personal Portfolio](https://joshuajaboneteportfolio.vercel.app/) to get more info
-- 👀 See my [Personal Portfolio](https://kenjiotazaa.github.io/KenjiPersonalWebsitev2/) to get more info
+- 👀 See my [Personal Portfolio](https://joshuajaboneteaboutme.vercel.app/) to get more info
 
 
 ### ✍️ Random Dev Quote
