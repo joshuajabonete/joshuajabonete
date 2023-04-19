@@ -1,5 +1,10 @@
 # Hello, Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
+
+### Discord Status
+[<img height="80px" src="https://discord.c99.nl/widget/theme-2/430054652336275458.png"/>](https://discord.com/users/430054652336275458)
+
+
 Nice to meet you, I'm Joshua Jabonete
 
 <div id="header" align="center">
