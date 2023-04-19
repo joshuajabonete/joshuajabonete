@@ -36,7 +36,7 @@ Nice to meet you, I'm Joshua Jabonete
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JoshuaJabonete)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2349F707&lines=I'm+JoshuaJabonete%2C+22+years+old;Gamer+Streamer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2349F707&lines=I'm+Joshua+Jabonete%2C+22+years+old;Gamer+Streamer)](https://git.io/typing-svg)
 
 ## 🤠 Who Am I? 
 - 🎮 Gamer | Streamer
@@ -56,7 +56,8 @@ Nice to meet you, I'm Joshua Jabonete
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 1. GitHub Stats
+
+
 
 <details>
   <summary>⚡ GitHub Stats</summary>
