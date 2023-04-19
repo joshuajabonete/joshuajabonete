@@ -58,7 +58,17 @@ Nice to meet you, I'm Joshua Jabonete
 
 ## 1. GitHub Stats
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JoshuaJabonete&show_icons=true)
+<details>
+  <summary>⚡ GitHub Stats</summary>
+<br>
+<a href="https://github.com/joshuajabonete">
+<img align="center" alt="JoshuaJabonete | GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoshuaJabonete&show_icons=true&theme=tokyonight-duo&layout=compact"/>
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=joshuajabonete&theme=tokyonight-duo&hide_border=true" alt="JoshuaJabonete | GitHub Stats"/>
+</a>
+</details>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kiyoshiotaza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kiyoshiotaza" /></a><a href="https://ko-fi.com/kiyoshiotaza"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/kiyoshiotaza" /></a></p><br><br>
