@@ -62,7 +62,7 @@ Nice to meet you, I'm Joshua Jabonete
   <summary>⚡ GitHub Stats</summary>
 <br>
 <a href="https://github.com/joshuajabonete">
-<img align="center" alt="JoshuaJabonete | GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JoshuaJabonete&show_icons=true&theme=tokyonight-duo&layout=compact"/>
+<img align="center" alt="JoshuaJabonete | GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=SealedSaucer&&show_icons=true&theme=tokyonight&layout=compact"/>
 <br>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=joshuajabonete&theme=tokyonight-duo&hide_border=true" alt="JoshuaJabonete | GitHub Stats"/>
